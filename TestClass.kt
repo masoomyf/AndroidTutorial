@@ -1,7 +1,7 @@
 package com.training.codelab01
 
 object TestClass {
-    @JvmStatic
+    
     /*
     Task 2:
     Step 1 - Create variable age in main function and set to 20.
@@ -15,6 +15,7 @@ object TestClass {
 
 
      */
+    @JvmStatic
     fun main(args: Array<String>){
         val age = 20
         val layer = 4
